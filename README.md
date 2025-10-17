@@ -5,7 +5,7 @@
 When I first started learning Frontend Development, I was fascinated by how websites come alive with HTML, CSS, and JavaScript.
  Gradually, my curiosity pushed me to explore Backend Development, and after weeks of continuous learning and building — I’m thrilled to share that my first full-stack project, ezHome, is finally live! 🙌
 
-💡 About GlobeVista:
+💡 About ezHome:
  ezHome is a travel web application where users can explore, create, edit, and share travel listings worldwide. Users can login/logout, manage their own listings, and enjoy a fully interactive and secure experience.
  It’s built with a focus on scalability, security, and clean architecture.
 
