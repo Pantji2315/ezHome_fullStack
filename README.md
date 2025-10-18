@@ -26,4 +26,4 @@ When I first started learning Frontend Development, I was fascinated by how webs
 
 
 
-project link :- https://ezhome-fullstack.onrender.com
+project link :- https://ezhome-fullstack.onrender.com/listings
