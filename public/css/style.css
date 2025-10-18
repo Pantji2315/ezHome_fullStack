@@ -101,3 +101,73 @@ body{
     width: 80vh;
  }
 
+/* Tablets & Small Laptops */
+@media (max-width: 1024px) {
+    .navbar {
+        height: 4rem;
+    }
+
+    .fa-compass {
+        font-size: 1.6rem;
+    }
+
+    #map {
+        height: 300px;
+        width: 95%;
+    }
+}
+
+/* Mobile Devices */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+
+    .navbar {
+        height: auto;
+        padding: 0.5rem 1rem;
+    }
+
+    .f-info {
+        flex-direction: column;
+        padding: 1rem;
+    }
+
+    .listing-card {
+        margin-bottom: 1.5rem;
+    }
+
+    .card-img-top {
+        height: 200px;
+    }
+
+    #map {
+        height: 250px;
+        width: 100%;
+    }
+
+    .btns {
+        flex-direction: column;
+        width: 100%;
+    }
+
+    .btns .btn {
+        width: 100%;
+    }
+}
+
+/* Extra Small Phones */
+@media (max-width: 480px) {
+    .fa-compass {
+        font-size: 1.4rem;
+    }
+
+    .card-img-top {
+        height: 180px;
+    }
+
+    #map {
+        height: 200px;
+    }
+}
+
